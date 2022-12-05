@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RosDotNet", "RosDotNet\RosDotNet.csproj", "{A23AC5A9-8E4F-4355-8B18-47DCB93F02C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "turtle_teleop_key", "turtle_teleop_key\turtle_teleop_key.csproj", "{FC141BFD-3A00-418F-8F68-7A49C5AE316F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "turtle_teleop_key", "turtle_teleop_key\turtle_teleop_key.csproj", "{FC141BFD-3A00-418F-8F68-7A49C5AE316F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleFootball", "TurtleFootball\TurtleFootball.csproj", "{38817964-92C5-43F0-98C3-1C6B23EE80E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FC141BFD-3A00-418F-8F68-7A49C5AE316F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC141BFD-3A00-418F-8F68-7A49C5AE316F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC141BFD-3A00-418F-8F68-7A49C5AE316F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38817964-92C5-43F0-98C3-1C6B23EE80E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38817964-92C5-43F0-98C3-1C6B23EE80E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38817964-92C5-43F0-98C3-1C6B23EE80E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38817964-92C5-43F0-98C3-1C6B23EE80E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
